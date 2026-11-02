@@ -1,0 +1,2 @@
+click address bar, type cmd, run:
+balance_test.exe 4 to run the test
